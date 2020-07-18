@@ -1,0 +1,209 @@
+
+(firefox:28804): GLib-GIO-WARNING **: 19:27:10.651: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595024851592	Marionette	INFO	Listening on port 38945
+1595024852664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+1595026467713	Marionette	INFO	Stopped listening on port 38945
+
+(firefox:29811): GLib-GIO-WARNING **: 19:54:48.052: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595026489926	Marionette	INFO	Listening on port 38507
+1595026489962	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595026574179	Marionette	INFO	Stopped listening on port 38507
+
+(firefox:30715): GLib-GIO-WARNING **: 20:13:37.474: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595027619188	Marionette	INFO	Listening on port 39289
+1595027619272	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595027634928	Marionette	INFO	Stopped listening on port 39289
+
+(firefox:31279): GLib-GIO-WARNING **: 20:32:36.913: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595028758964	Marionette	INFO	Listening on port 46257
+1595028759038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595028769093	Marionette	INFO	Stopped listening on port 46257
+
+(firefox:31844): GLib-GIO-WARNING **: 20:40:51.869: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595029253645	Marionette	INFO	Listening on port 46647
+1595029253705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595029271000	Marionette	INFO	Stopped listening on port 46647
+
+(firefox:32147): GLib-GIO-WARNING **: 20:41:51.946: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595029313726	Marionette	INFO	Listening on port 35785
+1595029313771	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595029385111	Marionette	INFO	Stopped listening on port 35785
+
+(firefox:32543): GLib-GIO-WARNING **: 20:45:26.851: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595029528622	Marionette	INFO	Listening on port 41663
+1595029528688	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595029544138	Marionette	INFO	Stopped listening on port 41663
+
+(firefox:32882): GLib-GIO-WARNING **: 20:46:17.797: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595029579688	Marionette	INFO	Listening on port 45897
+1595029579736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595029600310	Marionette	INFO	Stopped listening on port 45897
+
+(firefox:33393): GLib-GIO-WARNING **: 21:00:28.315: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595030432847	Marionette	INFO	Listening on port 35267
+1595030432974	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595030446807	Marionette	INFO	Stopped listening on port 35267
+
+(firefox:33787): GLib-GIO-WARNING **: 21:02:29.952: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595030555557	Marionette	INFO	Listening on port 36603
+1595030555849	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595030570159	Marionette	INFO	Stopped listening on port 36603
+
+(firefox:34121): GLib-GIO-WARNING **: 21:03:29.399: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595030611207	Marionette	INFO	Listening on port 38537
+1595030611294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595030615728	Marionette	INFO	Stopped listening on port 38537
+
+(firefox:34440): GLib-GIO-WARNING **: 21:03:56.391: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595030638050	Marionette	INFO	Listening on port 34749
+1595030638136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595030655801	Marionette	INFO	Stopped listening on port 34749
+
+(firefox:34840): GLib-GIO-WARNING **: 21:07:58.669: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595030880328	Marionette	INFO	Listening on port 37547
+1595030880431	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595030996256	Marionette	INFO	Stopped listening on port 37547
+
+(firefox:37178): GLib-GIO-WARNING **: 00:35:36.746: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595043351115	Marionette	INFO	Listening on port 32869
+1595043363577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595043375399	Marionette	INFO	Stopped listening on port 32869
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A0006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+(firefox:37648): GLib-GIO-WARNING **: 00:39:06.663: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595043555798	Marionette	INFO	Listening on port 42273
+1595043556160	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595043623711	Marionette	INFO	Stopped listening on port 42273
+
+(firefox:38101): GLib-GIO-WARNING **: 00:42:35.614: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595043757736	Marionette	INFO	Listening on port 39227
+1595043757750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595043776746	Marionette	INFO	Stopped listening on port 39227
+
+(firefox:38432): GLib-GIO-WARNING **: 00:44:22.994: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595043864576	Marionette	INFO	Listening on port 33055
+1595043864643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595043903959	Marionette	INFO	Stopped listening on port 33055
+
+(firefox:38745): GLib-GIO-WARNING **: 00:45:24.510: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595043926044	Marionette	INFO	Listening on port 42883
+1595043926063	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+1595043987499	Marionette	INFO	Stopped listening on port 42883
+
+(firefox:40579): GLib-GIO-WARNING **: 01:35:05.031: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595046911052	Marionette	INFO	Listening on port 42669
+1595046911534	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:40864): GLib-GIO-WARNING **: 01:36:02.255: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595046979074	Marionette	INFO	Listening on port 39923
+1595046980789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595047012252	Marionette	INFO	Stopped listening on port 39923
+1595047022280	Marionette	INFO	Stopped listening on port 42669
+
+(firefox:41497): GLib-GIO-WARNING **: 01:45:26.361: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595047529219	Marionette	INFO	Listening on port 41457
+1595047529288	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:41813): GLib-GIO-WARNING **: 01:45:42.128: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595047544458	Marionette	INFO	Listening on port 38449
+1595047544554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595047558433	Marionette	INFO	Stopped listening on port 38449
+1595047565062	Marionette	INFO	Stopped listening on port 41457
+
+(firefox:42435): GLib-GIO-WARNING **: 01:55:17.801: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595048119390	Marionette	INFO	Listening on port 38243
+1595048119555	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:42736): GLib-GIO-WARNING **: 01:55:26.746: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595048128585	Marionette	INFO	Listening on port 40905
+1595048128632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595048140231	Marionette	INFO	Stopped listening on port 38243
+1595048141397	Marionette	INFO	Stopped listening on port 40905
+
+(firefox:43769): GLib-GIO-WARNING **: 02:26:57.215: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595050019357	Marionette	INFO	Listening on port 39759
+1595050019377	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595050035961	Marionette	INFO	Stopped listening on port 39759
+
+(firefox:44233): GLib-GIO-WARNING **: 02:33:01.174: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595050383111	Marionette	INFO	Listening on port 44241
+1595050383138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595050413281	Marionette	INFO	Stopped listening on port 44241
+
+(firefox:44585): GLib-GIO-WARNING **: 02:34:38.025: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595050479465	Marionette	INFO	Listening on port 37017
+1595050479515	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595050499313	Marionette	INFO	Stopped listening on port 37017
+
+(firefox:44922): GLib-GIO-WARNING **: 02:35:55.480: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595050557069	Marionette	INFO	Listening on port 35079
+1595050557117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595050575177	Marionette	INFO	Stopped listening on port 35079
+
+(firefox:45272): GLib-GIO-WARNING **: 02:37:23.552: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595050645165	Marionette	INFO	Listening on port 36735
+1595050645211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595050660263	Marionette	INFO	Stopped listening on port 36735
+
+(firefox:45597): GLib-GIO-WARNING **: 02:37:56.069: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595050677546	Marionette	INFO	Listening on port 38521
+1595050677597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595050688633	Marionette	INFO	Stopped listening on port 38521
+
+(firefox:46296): GLib-GIO-WARNING **: 03:10:55.527: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595052658388	Marionette	INFO	Listening on port 44121
+1595052658464	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1595052669337	Marionette	INFO	Stopped listening on port 44121
+
+(firefox:47033): GLib-GIO-WARNING **: 03:24:41.396: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595053491782	Marionette	INFO	Listening on port 39169
+1595053492009	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:47379): GLib-GIO-WARNING **: 03:25:18.242: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595053520882	Marionette	INFO	Stopped listening on port 39169
+1595053521936	Marionette	INFO	Listening on port 32795
+1595053521975	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:47693): GLib-GIO-WARNING **: 03:25:34.476: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595053541058	Marionette	INFO	Listening on port 39113
+1595053542291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595053568251	Marionette	INFO	Stopped listening on port 39113
+1595053572613	Marionette	INFO	Stopped listening on port 32795
+
+(firefox:48247): GLib-GIO-WARNING **: 03:32:41.900: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595053964058	Marionette	INFO	Listening on port 39709
+1595053964161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595053972294	Marionette	INFO	Stopped listening on port 39709
+
+(firefox:48551): GLib-GIO-WARNING **: 03:32:56.804: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595053978418	Marionette	INFO	Listening on port 42435
+1595053978459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595053985607	Marionette	INFO	Stopped listening on port 42435
+
+(firefox:49115): GLib-GIO-WARNING **: 03:43:01.413: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595054582803	Marionette	INFO	Listening on port 32795
+1595054582822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595054597396	Marionette	INFO	Stopped listening on port 32795
+
+(firefox:49467): GLib-GIO-WARNING **: 03:44:16.089: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595054660802	Marionette	INFO	Listening on port 43933
+1595054660821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595054666112	Marionette	INFO	Stopped listening on port 43933
+
+(firefox:49817): GLib-GIO-WARNING **: 03:45:01.644: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595054703636	Marionette	INFO	Listening on port 46761
+1595054703652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595054709476	Marionette	INFO	Stopped listening on port 46761
