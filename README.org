@@ -47,6 +47,7 @@ Css Selector Vs Xpath
 #+END_COMMENT
 
     1. http://xpather.com/
+    2. https://www.w3schools.com/xml/xpath_syntax.asp
     5. https://oxylabs.io/blog/xpath-vs-css
     2. https://www.swtestacademy.com/xpath-selenium/
     3. https://www.lambdatest.com/blog/complete-guide-for-using-xpath-in-selenium-with-examples/
