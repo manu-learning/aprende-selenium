@@ -40,7 +40,20 @@
 
     #+END_SRC
 
-** Referencias 
+** Referencias XPath
+#+BEGIN_COMMENT
+Relative XPath expression
+Css Selector Vs Xpath
+#+END_COMMENT
+
+    1. http://xpather.com/
+    5. https://oxylabs.io/blog/xpath-vs-css
+    2. https://www.swtestacademy.com/xpath-selenium/
+    3. https://www.lambdatest.com/blog/complete-guide-for-using-xpath-in-selenium-with-examples/
+    4. https://www.softwaretestinghelp.com/xpath-writing-cheat-sheet-tutorial-examples/
+    6. https://testrigor.com/blog/css-selector-vs-xpath-your-pocket-cheat-sheet/
+    7. https://www.guru99.com/xpath-selenium.html
+** Referencias Selenium
    + https://enmilocalfunciona.io/automatizacion-de-pruebas-con-selenium-y-python/
    + https://linuxhint.com/browser_automation_selenium_python/
    + https://discover.manjaro.org/packages/python-selenium
